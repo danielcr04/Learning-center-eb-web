@@ -14,7 +14,7 @@ public class BillOfMaterialsItemRepository(AppDbContext context)
         ProductNumber itemProductNumber, int batchId, int billOfMaterialsId)
     {
         return await Context.Set<BillOfMaterialsItem>()
-            .AnyAsync(item => item.ItemProductNumber.Value == itemProductNumber.Value &&
+            .AnyAsync(item => item.ItemProductNumber == itemProductNumber &&
                               item.BatchId == batchId &&
                               item.BillOfMaterialsId == billOfMaterialsId);
     }

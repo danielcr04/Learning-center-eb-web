@@ -114,3 +114,4 @@ C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\Practica Ejercicios C#\
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\Practica Ejercicios C#\si730ebu20221g120.API\si730ebu20221g120.API\obj\Debug\net9.0\si730ebu20221g120.API.pdb
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\Practica Ejercicios C#\si730ebu20221g120.API\si730ebu20221g120.API\obj\Debug\net9.0\si730ebu20221g120.API.genruntimeconfig.cache
 C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\Practica Ejercicios C#\si730ebu20221g120.API\si730ebu20221g120.API\obj\Debug\net9.0\ref\si730ebu20221g120.API.dll
+C:\Users\User\Documents\UPC-ING SOFTWARE\CICLO 5\APP WEB\Practica Ejercicios C#\si730ebu20221g120.API\si730ebu20221g120.API\obj\Debug\net9.0\si730ebu20221g120.API.sourcelink.json
